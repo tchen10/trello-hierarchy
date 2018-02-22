@@ -1,10 +1,10 @@
 {
-  "name": "Parent/Child",
-  "details": "Create parent/child relationships between cards.",
+  "name": "Hierarchy",
+  "details": "Create hierarchy relationships between cards.",
   "icon": {
     "url": "./images/hierarchy.png"
   },
-  "author": "Tyler Kindy",
+  "author": "TC",
   "capabilities": [
     "callback",
     "card-buttons",
