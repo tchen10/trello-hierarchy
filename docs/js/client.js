@@ -1,6 +1,6 @@
 /* global TrelloPowerUp */
 
-const ROOT = 'https://tkindy.github.io/trello-parent-child';
+const ROOT = 'https://tchen10.github.io/trello-hierarchy';
 const HTML = `${ROOT}/html/`;
 const IMG = `${ROOT}/images/`;
 
